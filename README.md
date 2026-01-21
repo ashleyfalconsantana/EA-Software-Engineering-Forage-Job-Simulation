@@ -14,5 +14,8 @@ SmartDraw was used to make the following UML Diagram:
 ![uml diagram](uml-3.png)
 
 ## Task 3: Improve Inventory System
+For Task 3, I created "GameObjects.h" to define all 7 game objects for the system(which can be seen in the UML Diagram above). Each class includes private member vairables for data storage and public method stubs, with include guards and forward declarations to manage dependencies. I also chose data types carefully - like bool for state flags - ensuring proper encapsulation and clear class responsibilities before implementation. 
+
+[View Header File Here](GameObjects.h)
 
 ## Task 4: Live Bugfix

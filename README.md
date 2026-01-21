@@ -9,7 +9,7 @@ In task one, I was asked to develop a feature proposal for EA SPORTS College Foo
 ## Task 2: Create a Game Object Class
 In this task, I designed a UML class diagram to model the architecture of the proposed tutorial feature. The diagram breaks the system into core classes, defines their responsibilities, and visualizes how they interact. This helps to clarify object relationships, state, and behavior before implementation. 
 
-![uml diagram](uml-diagram.png)
+![uml diagram](uml-3.png)
 
 ## Task 3: Improve Inventory System
 

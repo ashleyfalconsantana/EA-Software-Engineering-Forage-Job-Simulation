@@ -22,3 +22,8 @@ For Task 3, I created "GameObjects.h" to define all 7 game objects for the syste
 For this task I refactored the invetory system to properly implement item removal when quantity reaches zero and modernized the codebase structure. I replaced the C style item array with the std::vector for safer memory managemenr, updated the remove_item() logic to fully delete items instead of leavning zero quantity entries, and cleaned up related input handling and data flow. This ensured correct inventory state management, improved code safety, and aligned the system wuith modern C++ practices used in collaborative codebases. 
 
 [View Updated File Here](task-4-starter.cpp)
+
+## Completed Cert
+Completed the Forage Inventory System simulation in 2026, originally planned since 2023, implementing C++ bugfixes and modernizing the codebase.
+![Certificate of Completion](ea-certificate.png)
+

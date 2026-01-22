@@ -19,3 +19,6 @@ For Task 3, I created "GameObjects.h" to define all 7 game objects for the syste
 [View Header File Here](GameObjects.h)
 
 ## Task 4: Live Bugfix
+For this task I refactored the invetory system to properly implement item removal when quantity reaches zero and modernized the codebase structure. I replaced the C style item array with the std::vector for safer memory managemenr, updated the remove_item() logic to fully delete items instead of leavning zero quantity entries, and cleaned up related input handling and data flow. This ensured correct inventory state management, improved code safety, and aligned the system wuith modern C++ practices used in collaborative codebases. 
+
+[View Updated File Here](task-4-starter.cpp)
